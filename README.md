@@ -23,6 +23,6 @@ LFS101x-Introduction-to-Linux-in-Chinese
 2, 然后我们就开始吧！
 翻译流程详见http://star.fdzh.org/p/90/
 
-如果你有任何问题，[这](http://chat.fdzh.org/)可以实时交流/留言
+如果你有任何问题，[这里](http://chat.fdzh.org/)可以实时交流/留言
 
 (房间名为"LFS101x翻译讨论组",注册后请稍等几秒（房间加载）)
