@@ -1,5 +1,6 @@
 LFS101x-Introduction-to-Linux-in-Chinese
 ========================================
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/tvvocold/LFS101x-Introduction-to-Linux-in-Chinese?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 中文版Linux导论  (Edx courses LFS101x）翻译并招募志愿者ing...
 
