@@ -24,6 +24,8 @@ LFS101x-Introduction-to-Linux-in-Chinese
 2, 然后我们就开始吧！
 翻译流程详见http://star.fdzh.org/p/90/
 
+欢迎pull，参见[wiki](https://github.com/tvvocold/LFS101x-Introduction-to-Linux-in-Chinese/wiki)
+
 如果你有任何问题，[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/tvvocold/LFS101x-Introduction-to-Linux-in-Chinese?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)可以实时交流/留言
 
 (房间名为"LFS101x翻译讨论组",注册后请稍等几秒（房间加载）)
