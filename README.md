@@ -1,6 +1,8 @@
 LFS101x-Introduction-to-Linux-in-Chinese
 ========================================
 
+[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/fdzh/LFS101x?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 中文版Linux导论  (Edx courses LFS101x）翻译并招募志愿者ing...
 
 [这](https://www.edx.org/course/linuxfoundationx/linuxfoundationx-lfs101x-2-introduction-5386)是linux基金会录制的linux入门教程，，linus本人也[推荐](https://www.youtube.com/watch?v=x8iKn4tsW1A)过。我大概看了下，对新手了解linux社区，安装使用linux大有帮助，可惜视频由utube托管，而且全英文，对国内新手很不"友好"，所以我想开启翻译并传播该教程的活动，请有意参加的人士举个手吧！
