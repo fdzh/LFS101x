@@ -30,4 +30,4 @@ LFS101x-Introduction-to-Linux-in-Chinese
 
 (房间名为"LFS101x翻译讨论组",注册后请稍等几秒（房间加载）)
 
-<a href="http://www.revolvermaps.com/?target=enlarge&amp;i=900943gc83l&amp;color=fff600&amp;m=0"><img src="https:////rj.revolvermaps.com/h/m/a/0/fff600/256/0/900943gc83l.png"></a>
+<a href="http://www.revolvermaps.com/?target=enlarge&amp;i=900943gc83l&amp;color=fff600&amp;m=0"><img src="https://rj.revolvermaps.com/h/m/a/0/fff600/256/0/900943gc83l.png"></a>
