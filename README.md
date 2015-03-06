@@ -29,3 +29,5 @@ LFS101x-Introduction-to-Linux-in-Chinese
 如果你有任何问题，[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/fdzh/LFS101x)可以实时交流/留言
 
 (房间名为"LFS101x翻译讨论组",注册后请稍等几秒（房间加载）)
+
+<a href="http://www.revolvermaps.com/?target=enlarge&amp;i=900943gc83l&amp;color=fff600&amp;m=0"><img src="//rj.revolvermaps.com/h/m/a/0/fff600/256/0/900943gc83l.png" width="512" height="256" alt="Map" style="border:0;"></a>
