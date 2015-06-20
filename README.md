@@ -10,7 +10,7 @@ LFS101x-Introduction-to-Linux-in-Chinese
 
 如何加入？
 -
-加入我们的 [邮件列表](https://groups.google.com/forum/#!forum/edxstar) 或在下方签到即可。
+加入我们的 [邮件列表](https://groups.google.com/forum/#!forum/edxstar) 或[点此](https://github.com/fdzh/LFS101x/wiki/CheckIn)报名。
 
 [翻译流程/文件](https://github.com/fdzh/LFS101x/wiki/%E7%BF%BB%E8%AF%91%E6%96%87%E4%BB%B6)
 
