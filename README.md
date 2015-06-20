@@ -9,11 +9,14 @@ LFS101x-Introduction-to-Linux-in-Chinese
  
 
 如何加入？
-加入我们的 [![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/fdzh/LFS101x)
+-
+加入我们的 [邮件列表](https://badges.gitter.im/Join Chat.svg)]
 
-翻译流程详见 http://star.fdzh.org/p/90/
+[翻译流程/文件](https://github.com/fdzh/LFS101x/wiki/%E7%BF%BB%E8%AF%91%E6%96%87%E4%BB%B6)
 
-欢迎pull，参见[wiki](https://github.com/tvvocold/LFS101x-Introduction-to-Linux-in-Chinese/wiki)
+欢迎提交 PR
+-
+参见[wiki](https://github.com/tvvocold/LFS101x-Introduction-to-Linux-in-Chinese/wiki)
 
 
 <a href="http://www.revolvermaps.com/?target=enlarge&amp;i=900943gc83l&amp;color=fff600&amp;m=0"><img src="https://rj.revolvermaps.com/h/m/a/0/fff600/256/0/900943gc83l.png" width="512" height="256" alt="Map" style="border:0;"></a>
