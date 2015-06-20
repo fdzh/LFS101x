@@ -10,7 +10,7 @@ LFS101x-Introduction-to-Linux-in-Chinese
 
 如何加入？
 -
-加入我们的 [邮件列表](https://badges.gitter.im/Join Chat.svg)]
+加入我们的 [邮件列表](https://groups.google.com/forum/#!forum/edxstar)
 
 [翻译流程/文件](https://github.com/fdzh/LFS101x/wiki/%E7%BF%BB%E8%AF%91%E6%96%87%E4%BB%B6)
 
