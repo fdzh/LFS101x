@@ -16,7 +16,7 @@ LFS101x-Introduction-to-Linux-in-Chinese
 
 欢迎提交 PR
 -
-参见[wiki](https://github.com/tvvocold/LFS101x-Introduction-to-Linux-in-Chinese/wiki)
+参见[WiKi](https://github.com/tvvocold/LFS101x-Introduction-to-Linux-in-Chinese/wiki)
 
 
 <a href="http://www.revolvermaps.com/?target=enlarge&amp;i=900943gc83l&amp;color=fff600&amp;m=0"><img src="https://rj.revolvermaps.com/h/m/a/0/fff600/256/0/900943gc83l.png" width="512" height="256" alt="Map" style="border:0;"></a>
